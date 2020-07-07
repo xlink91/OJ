@@ -1,3 +1,5 @@
+# problem_url: https://binarysearch.io/problems/DDoS-Protection
+
 from functools import cmp_to_key
 from collections import deque
 
